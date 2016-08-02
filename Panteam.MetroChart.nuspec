@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Panteam.MetroChart</id>
+    <version>1.0.1</version>
+    <title>A version of De.TorstenMandelkow.MetroChart WPF charting library.</title>
+    <authors>Panteam</authors>
+    <owners>Panteam</owners>
+    <licenseUrl>https://msdn.microsoft.com/en-us/library/ff649456.aspx</licenseUrl>
+    <description>Titles and legends were removed. 
+Also if you use ClusteredColumnChart 
+and the DisplayMember property of values collection gets string date like "11.2016", columns will be colored in different colors, according to the seasons</description>
+    <copyright>Copyright 2016</copyright>
+  </metadata>
+</package>
